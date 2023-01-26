@@ -172,9 +172,9 @@ Parte del proceso creativo se enfocó en la experiencia para nuestros usuarias, 
   </details>
 
 <div align="center">
-  <img src="images/1radioXpregunta.png" width="300px" height="200px">
-  <img src="images/htmlHito1a.png" width="300px" height="200px">
-  <img src="images/jsHito1-2.png" width="300px" height="200px">
+  <img src="imagenes/validar-campo-vacio.png" width="300px" height="200px">
+  <img src="imagenes/validar-letras.png" width="300px" height="200px">
+  <img src="imagenes/validar-tarjeta.png" width="300px" height="200px">
 </div>
 
 <br />
